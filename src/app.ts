@@ -112,6 +112,7 @@ class arrayUtil {
     }
 
     const uu = new Set(sourArr)
+    // return [...uu]
   }
 }
 
